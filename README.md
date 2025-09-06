@@ -75,6 +75,10 @@ uber-analytics/
    - Customer segmentation and retention strategies
 
    - Dynamic pricing effectiveness
+  
+## CXO Dashboard (Power BI)
+<img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/07231abc-a4f9-42b2-ad11-9f0c904b56c3" />
+
 
 ## 🎯 Key Insights Derived
 
