@@ -13,9 +13,7 @@ uber-analytics/
 
 ├── 📓 Data-Analysis.py
 
-├── 📈 visuals/
-
-│   └── (generated charts and plots)
+├── 📈 Uber_Analytics.pbix
 
 └── 📝 README.md
 
